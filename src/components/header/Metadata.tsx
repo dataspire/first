@@ -13,3 +13,5 @@ const Metadata: FC = () => {
         </>
     )
 }
+
+export default Metadata;
